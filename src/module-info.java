@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author jamster
+ *
+ */
+module paper {
+}
