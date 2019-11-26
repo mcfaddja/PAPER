@@ -1,8 +1,5 @@
 /**
- * 
- */
-/**
- * @author jamster
+ * @author Jonathan McFadden (mcfadden@auburn.edu)
  *
  */
 module paper {
